@@ -55,7 +55,7 @@ function App() {
   }
 
   return (
-    <div className=" bg-slate-500 flex justify-center p-6">
+    <div className=" bg-slate-500 flex justify-center p-6 w-screen h-screen">
       <div className="w-[500px] space-y-4">
         <h1 className="text-3xl text-slate-100 font-bold text-center">
           Gerenciador de Tarefas
